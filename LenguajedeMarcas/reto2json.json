@@ -1,0 +1,117 @@
+{
+    "$schema": "./reto2json.schema.json",
+    "usuarios": [
+       {
+        "idProponerPreguntas": 12,
+        "idUsuarios": 1,
+        "idEmpleados": 5,
+        "proponerPregunta":"¿Cuál de estos equipos no ha descendido nunca?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Inter de Milan",
+        "respuestaDos": "Liverpool",
+        "respuestaTres": "PSG",
+        "respuestaCuatro": "Sevilla"
+       },
+       {
+        "idProponerPreguntas": 13,
+        "idUsuarios": 1,
+        "idEmpleados": 8,
+        "proponerPregunta":"¿Donde juega Leroy Sané?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Bayern Munich",
+        "respuestaDos": "Manchester City",
+        "respuestaTres": "Schalke 04",
+        "respuestaCuatro": "BVB"
+       },
+       {
+        "idProponerPreguntas": 14,
+        "idUsuarios": 1,
+        "idEmpleados": 9,
+        "proponerPregunta":"Cuál de estos jugadores no tiene un balón de oro?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Andrés Iniesta",
+        "respuestaDos": "Kaká",
+        "respuestaTres": "Messi",
+        "respuestaCuatro": "Cannavaro"
+       },
+       {
+        "idProponerPreguntas": 15,
+        "idUsuarios": 1,
+        "idEmpleados": 10,
+        "proponerPregunta":"¿Quién es el jugador con más partidos en la selección Española?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Sergio Ramos",
+        "respuestaDos": "Iker Casillas",
+        "respuestaTres": "Sergio Busquets",
+        "respuestaCuatro": "David Silva"
+       },
+       {
+        "idProponerPreguntas": 16,
+        "idUsuarios": 1,
+        "idEmpleados": 1,
+        "proponerPregunta":"¿Cuál de estos equipos tiene menos de 6 champions?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Barcelona",
+        "respuestaDos": "AC Milan",
+        "respuestaTres": "Real Madrid",
+        "respuestaCuatro": "Liverpool"
+       },
+       {
+        "idProponerPreguntas": 17,
+        "idUsuarios": 1,
+        "idEmpleados": 5,
+        "proponerPregunta":"¿Cuál de estos jugadores juega en el Real Madrid?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Ceballos",
+        "respuestaDos": "Danilo",
+        "respuestaTres": "Asensio",
+        "respuestaCuatro": "El pájaro Duran"
+       },
+       {
+        "idProponerPreguntas": 18,
+        "idUsuarios": 1,
+        "idEmpleados": 5,
+        "proponerPregunta":"Quién es el jugador con más partidos en Premier League?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Gareth Barry",
+        "respuestaDos": "James Milner",
+        "respuestaTres": "Ryan Giggs",
+        "respuestaCuatro": "Frank Lampard"
+       },
+       {
+        "idProponerPreguntas": 19,
+        "idUsuarios": 1,
+        "idEmpleados": 5,
+        "proponerPregunta":"Cuál de estos equipos ha hecho menos puntos en la Premier League?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Derby County",
+        "respuestaDos": "Reading",
+        "respuestaTres": "Sheffield United",
+        "respuestaCuatro": "Burnley"
+       },
+       {
+        "idProponerPreguntas": 20,
+        "idUsuarios": 1,
+        "idEmpleados": 1,
+        "proponerPregunta":"Cuál de estos jugadores ha salido del Santos de Brasil?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "Neymar Jr",
+        "respuestaDos": "Lucas Moura",
+        "respuestaTres": "Vinicius Jr",
+        "respuestaCuatro": "Rossi"
+       },
+       {
+        "idProponerPreguntas": 21,
+        "idUsuarios": 1,
+        "idEmpleados": 1,
+        "proponerPregunta":"En qué minuto metio gol Sergio Ramos en la final de la champions 2013?",
+        "imagenPreguntas": "null",
+        "respuestaCorrecta": "minuto 93",
+        "respuestaDos": "minuto 95",
+        "respuestaTres": "minuto 92",
+        "respuestaCuatro": "minuto 94"
+       }
+
+    ]
+    
+}

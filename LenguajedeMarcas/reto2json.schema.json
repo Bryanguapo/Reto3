@@ -8,25 +8,38 @@
             "type":"array",
             "items":{
                 "type":"object",      
-                "properties": {      
-                        "nombre":{
-                            "type":"string"
-
+                "properties": {  
+                        "idProponerPreguntas":{
+                            "type":"number"
+                        },  
+                        "idUsuarios":{
+                            "type":"number"
                         },
-                        "apellido":{
-                            "type":"string"
-
+                        "idEmpleados":{
+                            "type":"number"
                         },
                         "proponerPregunta":{
                             "type":"string",
-                            "pattern": "^[¿][A-Z][a-z]+.*[?]$"
-
+                            "pattern": "^[¿]?[Á-ÿA-Z][a-z0-9Á-ÿA-Z]+([ ][a-z0-9Á-ÿA-Z]+)*[?]$"
                         },
-                        "respuesta":{
+                        "imagenPreguntas":{
                             "type":"string"
-                        } 
+                        },
+                        "respuestaCorrecta":{
+                            "type":"string"
+                        },
+                        "respuestaDos":{
+                            "type":"string"
+                        },
+                        "respuestaTres":{
+                            "type":"string"
+                        },
+                        "respuestaCuatro":{
+                            "type":"string"
+                        }
+
             },
-            "required": ["nombre", "apellido","proponerPregunta","respuesta"]
+            "required": ["idProponerPreguntas","idUsuarios","idEmpleados","proponerPregunta","imagenPreguntas","respuestaCorrecta","respuestaDos","respuestaTres","respuestaCuatro"]
         }                
         }
     }
