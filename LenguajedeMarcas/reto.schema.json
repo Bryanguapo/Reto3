@@ -41,7 +41,7 @@
                         }
 
             },
-            "required": ["nombre", "apellido", "correoElectronico", "contraseña", "puntos","fecha_jugada"]
+            "required": ["Id_usuario", "nombre", "apellido", "correoElectronico", "contraseña", "puntos","fecha_jugada"]
         }                
         }
     }
