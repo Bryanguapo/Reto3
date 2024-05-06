@@ -1,5 +1,5 @@
 {
-    "$schema": "./reto.schema.json",
+    "$schema": "./usuarios.schema.json",
     "usuarios": [
         {
             "Id_usuario": 1,

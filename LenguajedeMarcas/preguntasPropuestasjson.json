@@ -1,5 +1,5 @@
 {
-    "$schema": "./reto2json.schema.json",
+    "$schema": "./ProponerPreguntas.schema.json",
     "usuarios": [
        {
         "idProponerPreguntas": 12,
