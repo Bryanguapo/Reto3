@@ -27,7 +27,7 @@
         "idProponerPreguntas": 14,
         "idUsuarios": 1,
         "idEmpleados": 9,
-        "proponerPregunta":"Cuál de estos jugadores no tiene un balón de oro?",
+        "proponerPregunta":"Cuál de estos jugadores no tiene ningún balón de oro?",
         "imagenPreguntas": "null",
         "respuestaCorrecta": "Andrés Iniesta",
         "respuestaDos": "Kaká",
