@@ -110,6 +110,17 @@
         "respuestaDos": "minuto 95",
         "respuestaTres": "minuto 92",
         "respuestaCuatro": "minuto 94"
+       },
+       {
+        "idProponerPreguntas": 1,
+        "idUsuarios": 1,
+        "idEmpleados": 9,
+        "proponerPregunta":"Kkkk?",
+        "imagenPreguntas": "./img_preguntas/IT_AndoniFelipe.png",
+        "respuestaCorrecta": "kkkk",
+        "respuestaDos": "iiii",
+        "respuestaTres": "oooo",
+        "respuestaCuatro": "uuuu"
        }
 
     ]

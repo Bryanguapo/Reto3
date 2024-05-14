@@ -1,4 +1,4 @@
-{
+  {
     "$schema": "./usuarios.schema.json",
     "usuarios": [
         {
