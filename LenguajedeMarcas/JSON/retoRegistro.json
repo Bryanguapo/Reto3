@@ -1,0 +1,97 @@
+  {
+    "$schema": "./usuarios.schema.json",
+    "usuarios": [
+        {
+            "Id_usuario": 1,
+            "nombre": "Pepe",
+            "apellido": "Lopez",
+            "correoElectronico": "pepelopez@gmail.com",
+            "contraseña": "Pepe/kdklsdfl",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 2,
+            "nombre": "Bryan",
+            "apellido": "Murillos",
+            "correoElectronico": "br.murillos@gmail.com",
+            "contraseña": "bryanguapo88",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 3,
+            "nombre": "Nando",
+            "apellido": "Alonso",
+            "correoElectronico": "NnAalonso@gmail.com",
+            "contraseña": "F1Manager2024",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 4,
+            "nombre": "Cristiano",
+            "apellido": "Dos Santos",
+            "correoElectronico": "Elbicho@gmail.com",
+            "contraseña": "Penaldo1000goles",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 5,
+            "nombre": "Messi",
+            "apellido": "Lionel",
+            "correoElectronico": "Mesirve@gmail.com",
+            "contraseña": "Goat/8BalonesdeOro",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 6,
+            "nombre": "Sadik",
+            "apellido": "Erreala",
+            "correoElectronico": "Nomete@gmail.com",
+            "contraseña": "FallarEsHumano",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 7,
+            "nombre": "Michael",
+            "apellido": "Json",
+            "correoElectronico": "billyjean@gmail.com",
+            "contraseña": "Elrey2009",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 8,
+            "nombre": "Ivan",
+            "apellido": "Botelli",
+            "correoElectronico": "Ivantxu@gmail.com",
+            "contraseña": "Soumuyalto1.98",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 9,
+            "nombre": "Iñaki",
+            "apellido": "Davila",
+            "correoElectronico": "gamer69@gmail.com",
+            "contraseña": "videojuego643",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        },
+        {
+            "Id_usuario": 10,
+            "nombre": "Mario",
+            "apellido": "Bros",
+            "correoElectronico": "party@gmail.com",
+            "contraseña": "luigiAmigo",
+            "puntos": 0,
+            "fecha_jugada": "2024-04-29"
+        }
+      
+    ]
+    
+}
